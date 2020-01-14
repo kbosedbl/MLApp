@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "50757476250",
+    "firebase_url": "https://machinelearning-d18ca.firebaseio.com",
+    "project_id": "machinelearning-d18ca",
+    "storage_bucket": "machinelearning-d18ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50757476250:android:1937b16954cd8d6264a423",
+        "android_client_info": {
+          "package_name": "com.example.machinelearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50757476250-9d480ma9j9eda1j4c5bbim0ogj202ars.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCklVOiU2i0H7g7RYP_ZxzJ09DQ-AJ6hxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50757476250-9d480ma9j9eda1j4c5bbim0ogj202ars.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
